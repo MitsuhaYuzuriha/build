@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8dccd035.css",
+    "main.js": "/static/js/main.e992ee39.js",
+    "static/js/787.1b844d11.chunk.js": "/static/js/787.1b844d11.chunk.js",
+    "static/media/fundoum.png": "/static/media/fundoum.eeec04ac7b410dd01f99.png",
+    "static/media/fundodois.png": "/static/media/fundodois.b585655428505fa72738.png",
+    "static/media/ultimo.png": "/static/media/ultimo.df64cab8ab9a291e534e.png",
+    "static/media/img16.png": "/static/media/img16.8038e57df313efff27ad.png",
+    "static/media/img15.png": "/static/media/img15.c2dccbbd81f86e2691a3.png",
+    "static/media/img18.png": "/static/media/img18.fac44ed3dab3324584bb.png",
+    "static/media/fundotres.png": "/static/media/fundotres.1474f14fc503b1f80489.png",
+    "static/media/img14.png": "/static/media/img14.e4289ca66fab4ae4f3cc.png",
+    "static/media/img17.png": "/static/media/img17.deee375bc7d93229fc04.png",
+    "static/media/fundoquatro.png": "/static/media/fundoquatro.f67da3e1f23e6712deff.png",
+    "static/media/play.png": "/static/media/play.42aaa19592de36aabad5.png",
+    "index.html": "/index.html",
+    "main.8dccd035.css.map": "/static/css/main.8dccd035.css.map",
+    "main.e992ee39.js.map": "/static/js/main.e992ee39.js.map",
+    "787.1b844d11.chunk.js.map": "/static/js/787.1b844d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dccd035.css",
+    "static/js/main.e992ee39.js"
+  ]
+}
